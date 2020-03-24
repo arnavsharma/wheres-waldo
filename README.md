@@ -4,12 +4,24 @@ We are Where's Waldo (Ford Team No. 1) and this is our project page for Mobile R
 
 ![image info](waldo_wave.jpg)
 
+### Team members:
 
-You can use the [editor on GitHub](https://github.com/arnavsharma/wheres-waldo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Arnav Sharma (arnavsha@umich.edu)
+* Benjamin Dion (bedion@umich.edu)
+* Eric Yu (ericyu@umich.edu)
+* Saurabh Sinha (sinhasau@umich.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course link:
 
-### Markdown
+[Mobile Robotics](http://robots.engin.umich.edu/mobilerobotics/)
+
+### Project Information
+
+### Dependencies
+
+### Step-by-step Instructions
+1. Test
+2. Test
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
