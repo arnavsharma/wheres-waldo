@@ -1,4 +1,5 @@
 ## Welcome to our project page!
+[Our Site](https://arnavsharma.github.io/wheres-waldo/)
 
 We are Where's Waldo (Ford Team No. 1) and this is our project page for Mobile Robotics (EECS 568).
 
