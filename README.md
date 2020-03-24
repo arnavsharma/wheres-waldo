@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to our project page!
+
+We are Where's Waldo (Ford Team No. 1) and this is our project page for Mobile Robotics (EECS 568).
+
+![image info](waldo_wave.png)
+
 
 You can use the [editor on GitHub](https://github.com/arnavsharma/wheres-waldo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
